@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm joacs0</h1>
 <h3 align="center">Little programmer learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joacs0&label=Profile%20views&color=0e75b6&style=flat-square" alt="joacs0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joacs0" alt="joacs0" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Java**
 
@@ -16,6 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joacs0&show_icons=true&theme=dark&locale=en&layout=dark" alt="joacs0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joacs0&show_icons=true&theme=radical&cache_seconds=1800&locale=en&layout=compact" alt="joacs0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joacs0&theme=dark" alt="joacs0" /></p>
+
+
