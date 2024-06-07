@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joacs0&show_icons=true&theme=radical&locale=en&layout=compact" alt="joacs0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joacs0&" alt="joacs0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joacs0&theme:dark" alt="joacs0" /></p>
