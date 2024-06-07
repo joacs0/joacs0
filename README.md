@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm joacs0</h1>
 <h3 align="center">Little programmer learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joacs0&label=Profile%20views&color=0e75b6&style=flat" alt="joacs0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joacs0&label=Profile%20views&color=0e75b6&style=flat-square" alt="joacs0" /> </p>
 
 - 🌱 I’m currently learning **Python and Java**
 
@@ -17,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joacs0&show_icons=true&theme=radical&locale=en&layout=compact" alt="joacs0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joacs0&theme:dark" alt="joacs0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joacs0&theme=dark" alt="joacs0" /></p>
